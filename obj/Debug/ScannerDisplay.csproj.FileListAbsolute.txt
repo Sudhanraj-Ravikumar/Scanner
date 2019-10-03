@@ -1,0 +1,13 @@
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\obj\Debug\ScannerDisplay.Analysisframe.resources
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\obj\Debug\ScannerDisplay.Login.resources
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\obj\Debug\ScannerDisplay.Mainframe.resources
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\obj\Debug\ScannerDisplay.Properties.Resources.resources
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\obj\Debug\ScannerDisplay.Setupframe.resources
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\obj\Debug\ScannerDisplay.csproj.GenerateResource.Cache
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\obj\Debug\ScannerDisplay.csproj.CoreCompileInputs.cache
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\bin\Debug\ScannerDisplay.exe.config
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\bin\Debug\ScannerDisplay.exe
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\bin\Debug\ScannerDisplay.pdb
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\bin\Debug\IPS7LnkNet.Advanced.dll
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\obj\Debug\ScannerDisplay.exe
+C:\Users\sudhanraj.r\Desktop\Scanner\ScannerDisplay\ScannerDisplay\obj\Debug\ScannerDisplay.pdb

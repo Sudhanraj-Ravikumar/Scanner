@@ -1,0 +1,1473 @@
+2018-05-16 11:00:32:705 Error: > Mainframe_InitConfig: Value cannot be null.
+Parameter name: value
+2018-05-16 11:00:32:720 Error: > Mainframe_InitChartType: Index was outside the bounds of the array.
+2018-05-16 11:00:32:738 Error: > Mainframe_InitChart: A chart element with the name 'Analyse Graph' could not be found in the 'SeriesCollection'.
+2018-05-16 11:00:35:257 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:35:324 Info: > ProcessingTime:152.8452
+2018-05-16 11:00:35:958 Info: > ProcessingTime:17.9364
+2018-05-16 11:00:36:515 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:00:37:037 Info: > ProcessingTime:15.6721
+2018-05-16 11:00:37:269 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:37:551 Info: > ProcessingTime:10.9908
+2018-05-16 11:00:38:068 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:00:38:585 Info: > ProcessingTime:10.785
+2018-05-16 11:00:39:106 Info: > ProcessingTime:13.897
+2018-05-16 11:00:39:282 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:39:627 Info: > ProcessingTime:11.1242
+2018-05-16 11:00:40:146 Info: > ProcessingTime:13.7475
+2018-05-16 11:00:40:662 Info: > ProcessingTime:10.9429
+2018-05-16 11:00:41:177 Info: > ProcessingTime:12.8939
+2018-05-16 11:00:41:299 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:41:692 Info: > ProcessingTime:10.5177
+2018-05-16 11:00:42:207 Info: > ProcessingTime:10.7815
+2018-05-16 11:00:42:722 Info: > ProcessingTime:10.9214
+2018-05-16 11:00:43:242 Info: > ProcessingTime:18.4221
+2018-05-16 11:00:43:312 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:43:769 Info: > ProcessingTime:10.9297
+2018-05-16 11:00:44:284 Info: > ProcessingTime:11.0454
+2018-05-16 11:00:44:798 Info: > ProcessingTime:10.3515
+2018-05-16 11:00:45:332 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:45:333 Info: > ProcessingTime:22.143
+2018-05-16 11:00:45:847 Info: > ProcessingTime:9.6533
+2018-05-16 11:00:46:360 Info: > ProcessingTime:10.2703
+2018-05-16 11:00:46:876 Info: > ProcessingTime:10.3399
+2018-05-16 11:00:47:345 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:47:400 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:00:47:914 Info: > ProcessingTime:10.2076
+2018-05-16 11:00:48:429 Info: > ProcessingTime:10.1933
+2018-05-16 11:00:48:948 Info: > ProcessingTime:10.5123
+2018-05-16 11:00:49:370 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:49:469 Info: > ProcessingTime:9.6638
+2018-05-16 11:00:49:982 Info: > ProcessingTime:10.448
+2018-05-16 11:00:50:497 Info: > ProcessingTime:10.5481
+2018-05-16 11:00:51:009 Info: > ProcessingTime:10.7589
+2018-05-16 11:00:51:381 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:51:523 Info: > ProcessingTime:10.7719
+2018-05-16 11:00:52:038 Info: > ProcessingTime:10.11
+2018-05-16 11:00:52:559 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:00:53:075 Info: > ProcessingTime:14.4699
+2018-05-16 11:00:53:407 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:53:597 Info: > ProcessingTime:10.703
+2018-05-16 11:00:54:110 Info: > ProcessingTime:10.6691
+2018-05-16 11:00:54:626 Info: > ProcessingTime:10.9055
+2018-05-16 11:00:55:138 Info: > ProcessingTime:10.0269
+2018-05-16 11:00:55:431 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:55:652 Info: > ProcessingTime:10.6253
+2018-05-16 11:00:56:166 Info: > ProcessingTime:10.6255
+2018-05-16 11:00:56:681 Info: > ProcessingTime:10.959
+2018-05-16 11:00:57:195 Info: > ProcessingTime:10.4989
+2018-05-16 11:00:57:452 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:57:720 Info: > ProcessingTime:11.2595
+2018-05-16 11:00:58:236 Info: > ProcessingTime:9.9101
+2018-05-16 11:00:58:751 Info: > ProcessingTime:10.66
+2018-05-16 11:00:59:274 Info: > ProcessingTime:10.6979
+2018-05-16 11:00:59:529 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:00:59:799 Info: > ProcessingTime:11.0809
+2018-05-16 11:01:00:316 Info: > ProcessingTime:10.6234
+2018-05-16 11:01:00:834 Info: > ProcessingTime:12.1863
+2018-05-16 11:01:01:360 Info: > ProcessingTime:10.4018
+2018-05-16 11:01:01:548 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:01:879 Info: > ProcessingTime:12.2621
+2018-05-16 11:01:02:396 Info: > ProcessingTime:9.4825
+2018-05-16 11:01:02:914 Info: > ProcessingTime:10.9448
+2018-05-16 11:01:03:425 Info: > ProcessingTime:10.7708
+2018-05-16 11:01:03:568 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:03:937 Info: > ProcessingTime:10.7165
+2018-05-16 11:01:04:454 Info: > ProcessingTime:11.0045
+2018-05-16 11:01:04:968 Info: > ProcessingTime:10.2942
+2018-05-16 11:01:05:492 Info: > ProcessingTime:12.0991
+2018-05-16 11:01:05:576 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:06:016 Info: > ProcessingTime:10.919
+2018-05-16 11:01:06:532 Info: > ProcessingTime:12.9961
+2018-05-16 11:01:07:045 Info: > ProcessingTime:10.9978
+2018-05-16 11:01:07:567 Info: > ProcessingTime:11.455
+2018-05-16 11:01:07:597 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:08:082 Info: > ProcessingTime:11.1115
+2018-05-16 11:01:08:599 Info: > ProcessingTime:10.9136
+2018-05-16 11:01:09:115 Info: > ProcessingTime:10.9155
+2018-05-16 11:01:09:609 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:09:649 Info: > ProcessingTime:26.5602
+2018-05-16 11:01:10:195 Info: > ProcessingTime:11.6626
+2018-05-16 11:01:10:715 Info: > ProcessingTime:13.5651
+2018-05-16 11:01:11:230 Info: > ProcessingTime:10.494
+2018-05-16 11:01:11:623 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:11:749 Info: > ProcessingTime:16.1764
+2018-05-16 11:01:12:264 Info: > ProcessingTime:10.5228
+2018-05-16 11:01:12:778 Info: > ProcessingTime:11.1365
+2018-05-16 11:01:13:291 Info: > ProcessingTime:10.8829
+2018-05-16 11:01:13:646 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:13:815 Info: > ProcessingTime:10.5301
+2018-05-16 11:01:14:332 Info: > ProcessingTime:13.1303
+2018-05-16 11:01:14:850 Info: > ProcessingTime:14.4675
+2018-05-16 11:01:15:363 Info: > ProcessingTime:11.6427
+2018-05-16 11:01:15:658 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:15:879 Info: > ProcessingTime:14.7267
+2018-05-16 11:01:16:397 Info: > ProcessingTime:10.9733
+2018-05-16 11:01:16:908 Info: > ProcessingTime:10.5691
+2018-05-16 11:01:17:435 Info: > ProcessingTime:10.71
+2018-05-16 11:01:17:675 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:17:954 Info: > ProcessingTime:11.2248
+2018-05-16 11:01:18:468 Info: > ProcessingTime:11.6435
+2018-05-16 11:01:18:985 Info: > ProcessingTime:10.6651
+2018-05-16 11:01:19:508 Info: > ProcessingTime:15.0094
+2018-05-16 11:01:19:686 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:20:033 Info: > ProcessingTime:10.188
+2018-05-16 11:01:20:547 Info: > ProcessingTime:9.34
+2018-05-16 11:01:21:060 Info: > ProcessingTime:10.6393
+2018-05-16 11:01:21:584 Info: > ProcessingTime:12.6085
+2018-05-16 11:01:21:702 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:22:097 Info: > ProcessingTime:11.3985
+2018-05-16 11:01:22:613 Info: > ProcessingTime:10.8802
+2018-05-16 11:01:23:131 Info: > ProcessingTime:11.6726
+2018-05-16 11:01:23:658 Info: > ProcessingTime:11.8108
+2018-05-16 11:01:23:721 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:24:171 Info: > ProcessingTime:10.082
+2018-05-16 11:01:24:691 Info: > ProcessingTime:14.2604
+2018-05-16 11:01:25:239 Info: > ProcessingTime:11.0397
+2018-05-16 11:01:25:739 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:25:751 Info: > ProcessingTime:11.9345
+2018-05-16 11:01:26:264 Info: > ProcessingTime:11.1067
+2018-05-16 11:01:26:781 Info: > ProcessingTime:11.2022
+2018-05-16 11:01:27:299 Info: > ProcessingTime:11.5343
+2018-05-16 11:01:27:752 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:27:813 Info: > ProcessingTime:10.5104
+2018-05-16 11:01:28:328 Info: > ProcessingTime:9.8803
+2018-05-16 11:01:28:847 Info: > ProcessingTime:13.9444
+2018-05-16 11:01:29:359 Info: > ProcessingTime:10.3547
+2018-05-16 11:01:29:765 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:29:882 Info: > ProcessingTime:15.5486
+2018-05-16 11:01:30:405 Info: > ProcessingTime:10.4201
+2018-05-16 11:01:30:922 Info: > ProcessingTime:13.3002
+2018-05-16 11:01:31:440 Info: > ProcessingTime:14.1888
+2018-05-16 11:01:31:781 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:31:967 Info: > ProcessingTime:18.1749
+2018-05-16 11:01:32:486 Info: > ProcessingTime:10.4884
+2018-05-16 11:01:33:002 Info: > ProcessingTime:10.5486
+2018-05-16 11:01:33:518 Info: > ProcessingTime:10.6922
+2018-05-16 11:01:33:797 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:34:031 Info: > ProcessingTime:10.9023
+2018-05-16 11:01:34:545 Info: > ProcessingTime:10.4354
+2018-05-16 11:01:35:060 Info: > ProcessingTime:10.4806
+2018-05-16 11:01:35:580 Info: > ProcessingTime:10.5494
+2018-05-16 11:01:35:816 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:36:099 Info: > ProcessingTime:9.6993
+2018-05-16 11:01:36:620 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:01:37:133 Info: > ProcessingTime:10.7248
+2018-05-16 11:01:37:656 Info: > ProcessingTime:10.6764
+2018-05-16 11:01:37:827 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:38:172 Info: > ProcessingTime:11.3652
+2018-05-16 11:01:38:684 Info: > ProcessingTime:10.6417
+2018-05-16 11:01:39:202 Info: > ProcessingTime:14.2916
+2018-05-16 11:01:39:720 Info: > ProcessingTime:15.9389
+2018-05-16 11:01:39:839 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:40:236 Info: > ProcessingTime:11.8261
+2018-05-16 11:01:40:755 Error: > Mainframe_StartEdgeAnalyser: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018-05-16 11:01:41:274 Info: > ProcessingTime:11.871
+2018-05-16 11:01:41:799 Error: > Mainframe_StartEdgeAnalyser: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018-05-16 11:01:41:862 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:42:313 Info: > ProcessingTime:10.5045
+2018-05-16 11:01:42:828 Info: > ProcessingTime:10.7635
+2018-05-16 11:01:43:346 Info: > ProcessingTime:11.7328
+2018-05-16 11:01:43:860 Info: > ProcessingTime:10.5688
+2018-05-16 11:01:43:887 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:44:375 Info: > ProcessingTime:11.7075
+2018-05-16 11:01:44:887 Info: > ProcessingTime:10.4273
+2018-05-16 11:01:45:414 Info: > ProcessingTime:13.4621
+2018-05-16 11:01:45:897 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:45:927 Info: > ProcessingTime:10.5435
+2018-05-16 11:01:46:440 Info: > ProcessingTime:11.5475
+2018-05-16 11:01:46:953 Info: > ProcessingTime:10.4198
+2018-05-16 11:01:47:476 Info: > ProcessingTime:12.4963
+2018-05-16 11:01:47:920 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:47:990 Info: > ProcessingTime:12.1174
+2018-05-16 11:01:48:534 Info: > ProcessingTime:10.6541
+2018-05-16 11:01:49:046 Info: > ProcessingTime:10.5298
+2018-05-16 11:01:49:571 Info: > ProcessingTime:18.2101
+2018-05-16 11:01:49:942 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:50:083 Info: > ProcessingTime:10.8278
+2018-05-16 11:01:50:599 Info: > ProcessingTime:11.4983
+2018-05-16 11:01:51:115 Info: > ProcessingTime:11.1782
+2018-05-16 11:01:51:628 Info: > ProcessingTime:11.1027
+2018-05-16 11:01:51:953 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:52:158 Info: > ProcessingTime:15.0602
+2018-05-16 11:01:52:672 Info: > ProcessingTime:11.0322
+2018-05-16 11:01:53:187 Info: > ProcessingTime:9.7671
+2018-05-16 11:01:53:709 Info: > ProcessingTime:10.543
+2018-05-16 11:01:53:969 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:54:221 Info: > ProcessingTime:10.5153
+2018-05-16 11:01:54:742 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:01:55:259 Info: > ProcessingTime:13.3578
+2018-05-16 11:01:55:789 Info: > ProcessingTime:17.9428
+2018-05-16 11:01:55:992 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:56:300 Info: > ProcessingTime:10.4924
+2018-05-16 11:01:56:815 Info: > ProcessingTime:10.1638
+2018-05-16 11:01:57:330 Info: > ProcessingTime:12.8089
+2018-05-16 11:01:57:852 Info: > ProcessingTime:10.1519
+2018-05-16 11:01:58:002 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:01:58:368 Info: > ProcessingTime:13.8919
+2018-05-16 11:01:58:883 Info: > ProcessingTime:10.7326
+2018-05-16 11:01:59:399 Info: > ProcessingTime:11.3697
+2018-05-16 11:01:59:916 Info: > ProcessingTime:10.3566
+2018-05-16 11:02:00:015 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:00:440 Info: > ProcessingTime:11.2455
+2018-05-16 11:02:00:953 Info: > ProcessingTime:11.9649
+2018-05-16 11:02:01:471 Info: > ProcessingTime:11.4394
+2018-05-16 11:02:01:986 Info: > ProcessingTime:12.6012
+2018-05-16 11:02:02:038 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:02:502 Info: > ProcessingTime:12.7142
+2018-05-16 11:02:03:016 Info: > ProcessingTime:11.1796
+2018-05-16 11:02:03:544 Info: > ProcessingTime:12.6039
+2018-05-16 11:02:04:053 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:04:066 Info: > ProcessingTime:10.8162
+2018-05-16 11:02:04:579 Info: > ProcessingTime:12.0722
+2018-05-16 11:02:05:095 Info: > ProcessingTime:10.2609
+2018-05-16 11:02:05:613 Info: > ProcessingTime:12.3363
+2018-05-16 11:02:06:067 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:06:125 Info: > ProcessingTime:10.5449
+2018-05-16 11:02:06:643 Info: > ProcessingTime:10.2697
+2018-05-16 11:02:07:155 Info: > ProcessingTime:11.0693
+2018-05-16 11:02:07:679 Info: > ProcessingTime:17.108
+2018-05-16 11:02:08:078 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:08:192 Info: > ProcessingTime:11.6427
+2018-05-16 11:02:08:718 Info: > ProcessingTime:10.0099
+2018-05-16 11:02:09:232 Info: > ProcessingTime:10.4295
+2018-05-16 11:02:09:750 Info: > ProcessingTime:10.6753
+2018-05-16 11:02:10:102 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:10:273 Info: > ProcessingTime:10.139
+2018-05-16 11:02:10:788 Info: > ProcessingTime:10.6145
+2018-05-16 11:02:11:319 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:02:11:835 Info: > ProcessingTime:13.0735
+2018-05-16 11:02:12:116 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:12:350 Info: > ProcessingTime:14.2792
+2018-05-16 11:02:12:866 Info: > ProcessingTime:10.1901
+2018-05-16 11:02:13:382 Info: > ProcessingTime:9.9637
+2018-05-16 11:02:13:897 Info: > ProcessingTime:10.1457
+2018-05-16 11:02:14:132 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:14:397 Info: > ProcessingTime:10.2625
+2018-05-16 11:02:14:913 Info: > ProcessingTime:13.1061
+2018-05-16 11:02:15:429 Info: > ProcessingTime:10.4876
+2018-05-16 11:02:15:975 Info: > ProcessingTime:15.7931
+2018-05-16 11:02:16:147 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:16:491 Info: > ProcessingTime:10.2695
+2018-05-16 11:02:17:007 Info: > ProcessingTime:10.3644
+2018-05-16 11:02:17:507 Info: > ProcessingTime:10.3886
+2018-05-16 11:02:18:022 Info: > ProcessingTime:10.1699
+2018-05-16 11:02:18:163 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:18:522 Info: > ProcessingTime:10.0653
+2018-05-16 11:02:19:038 Info: > ProcessingTime:10.4115
+2018-05-16 11:02:19:538 Info: > ProcessingTime:10.2697
+2018-05-16 11:02:20:053 Info: > ProcessingTime:10.0984
+2018-05-16 11:02:20:163 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:20:569 Info: > ProcessingTime:10.2974
+2018-05-16 11:02:21:085 Info: > ProcessingTime:10.625
+2018-05-16 11:02:21:600 Info: > ProcessingTime:10.3281
+2018-05-16 11:02:22:116 Info: > ProcessingTime:10.0804
+2018-05-16 11:02:22:179 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:22:632 Info: > ProcessingTime:10.8246
+2018-05-16 11:02:23:163 Info: > ProcessingTime:12.9202
+2018-05-16 11:02:23:679 Info: > ProcessingTime:10.1081
+2018-05-16 11:02:24:257 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:24:257 Info: > ProcessingTime:70.251
+2018-05-16 11:02:24:788 Info: > ProcessingTime:10.1377
+2018-05-16 11:02:25:304 Info: > ProcessingTime:11.0943
+2018-05-16 11:02:25:819 Info: > ProcessingTime:11.6709
+2018-05-16 11:02:26:272 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:26:319 Info: > ProcessingTime:15.4456
+2018-05-16 11:02:26:882 Info: > ProcessingTime:11.2175
+2018-05-16 11:02:27:397 Info: > ProcessingTime:11.0524
+2018-05-16 11:02:27:897 Info: > ProcessingTime:10.3889
+2018-05-16 11:02:28:288 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:28:397 Info: > ProcessingTime:10.8929
+2018-05-16 11:02:28:913 Info: > ProcessingTime:12.3498
+2018-05-16 11:02:29:444 Info: > ProcessingTime:10.4233
+2018-05-16 11:02:29:960 Info: > ProcessingTime:10.2899
+2018-05-16 11:02:30:304 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:30:475 Info: > ProcessingTime:14.0608
+2018-05-16 11:02:31:007 Info: > ProcessingTime:10.7
+2018-05-16 11:02:31:538 Info: > ProcessingTime:11.8775
+2018-05-16 11:02:32:038 Info: > ProcessingTime:14.0331
+2018-05-16 11:02:32:319 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:32:554 Info: > ProcessingTime:9.9806
+2018-05-16 11:02:33:078 Info: > ProcessingTime:10.9838
+2018-05-16 11:02:33:595 Info: > ProcessingTime:11.8119
+2018-05-16 11:02:34:099 Info: > ProcessingTime:10.9824
+2018-05-16 11:02:34:333 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:34:615 Info: > ProcessingTime:10.7154
+2018-05-16 11:02:35:130 Info: > ProcessingTime:10.6589
+2018-05-16 11:02:35:630 Info: > ProcessingTime:12.6236
+2018-05-16 11:02:36:146 Info: > ProcessingTime:10.5228
+2018-05-16 11:02:36:365 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:36:662 Info: > ProcessingTime:10.1022
+2018-05-16 11:02:37:177 Info: > ProcessingTime:10.281
+2018-05-16 11:02:37:693 Info: > ProcessingTime:9.943
+2018-05-16 11:02:38:208 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:02:38:365 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:38:724 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:02:39:240 Info: > ProcessingTime:10.3773
+2018-05-16 11:02:39:755 Info: > ProcessingTime:12.2105
+2018-05-16 11:02:40:255 Info: > ProcessingTime:10.55
+2018-05-16 11:02:40:380 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:02:40:787 Info: > ProcessingTime:10.5919
+2018-05-16 11:04:31:309 Error: > Mainframe_InitConfig: Value cannot be null.
+Parameter name: value
+2018-05-16 11:04:31:321 Error: > Mainframe_InitChartType: Index was outside the bounds of the array.
+2018-05-16 11:04:31:334 Error: > Mainframe_InitChart: A chart element with the name 'Analyse Graph' could not be found in the 'SeriesCollection'.
+2018-05-16 11:04:33:584 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:33:662 Info: > ProcessingTime:158.502
+2018-05-16 11:04:34:302 Info: > ProcessingTime:14.6318
+2018-05-16 11:04:34:834 Info: > ProcessingTime:11.6223
+2018-05-16 11:04:35:349 Info: > ProcessingTime:11.5935
+2018-05-16 11:04:35:599 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:35:865 Info: > ProcessingTime:11.1893
+2018-05-16 11:04:36:412 Info: > ProcessingTime:10.4177
+2018-05-16 11:04:36:943 Info: > ProcessingTime:16.299
+2018-05-16 11:04:37:459 Info: > ProcessingTime:12.5071
+2018-05-16 11:04:37:599 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:37:990 Info: > ProcessingTime:10.0304
+2018-05-16 11:04:38:506 Info: > ProcessingTime:10.362
+2018-05-16 11:04:39:021 Info: > ProcessingTime:15.0245
+2018-05-16 11:04:39:552 Info: > ProcessingTime:11.892
+2018-05-16 11:04:39:615 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:40:084 Info: > ProcessingTime:14.7308
+2018-05-16 11:04:40:615 Info: > ProcessingTime:10.2176
+2018-05-16 11:04:41:146 Info: > ProcessingTime:17.9119
+2018-05-16 11:04:41:631 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:41:646 Info: > ProcessingTime:10.2122
+2018-05-16 11:04:42:193 Info: > ProcessingTime:9.7913
+2018-05-16 11:04:42:709 Info: > ProcessingTime:10.8146
+2018-05-16 11:04:43:256 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:04:43:646 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:43:771 Info: > ProcessingTime:11.3808
+2018-05-16 11:04:44:302 Info: > ProcessingTime:11.6427
+2018-05-16 11:04:44:818 Info: > ProcessingTime:10.4491
+2018-05-16 11:04:45:334 Info: > ProcessingTime:11.1516
+2018-05-16 11:04:45:646 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:45:834 Info: > ProcessingTime:10.9397
+2018-05-16 11:04:46:349 Info: > ProcessingTime:11.413
+2018-05-16 11:04:46:865 Info: > ProcessingTime:10.8875
+2018-05-16 11:04:47:381 Info: > ProcessingTime:10.4905
+2018-05-16 11:04:47:662 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:47:896 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:04:48:412 Info: > ProcessingTime:10.4451
+2018-05-16 11:04:48:927 Info: > ProcessingTime:10.6761
+2018-05-16 11:04:49:459 Info: > ProcessingTime:10.6581
+2018-05-16 11:04:49:677 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:49:974 Info: > ProcessingTime:10.0277
+2018-05-16 11:04:50:490 Info: > ProcessingTime:10.1164
+2018-05-16 11:04:51:006 Info: > ProcessingTime:10.2703
+2018-05-16 11:04:51:521 Info: > ProcessingTime:10.2988
+2018-05-16 11:04:51:709 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:52:021 Info: > ProcessingTime:15.316
+2018-05-16 11:04:52:552 Info: > ProcessingTime:10.6376
+2018-05-16 11:04:53:115 Info: > ProcessingTime:35.1297
+2018-05-16 11:04:53:631 Info: > ProcessingTime:10.9321
+2018-05-16 11:04:53:724 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:54:146 Info: > ProcessingTime:11.1118
+2018-05-16 11:04:54:662 Info: > ProcessingTime:10.6024
+2018-05-16 11:04:55:177 Info: > ProcessingTime:10.4405
+2018-05-16 11:04:55:693 Info: > ProcessingTime:13.1375
+2018-05-16 11:04:55:740 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:56:240 Info: > ProcessingTime:10.6212
+2018-05-16 11:04:56:756 Info: > ProcessingTime:9.9502
+2018-05-16 11:04:57:271 Info: > ProcessingTime:11.6403
+2018-05-16 11:04:57:740 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:57:787 Info: > ProcessingTime:17.0865
+2018-05-16 11:04:58:318 Info: > ProcessingTime:12.0335
+2018-05-16 11:04:58:834 Info: > ProcessingTime:12.7494
+2018-05-16 11:04:59:365 Info: > ProcessingTime:10.1839
+2018-05-16 11:04:59:740 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:04:59:881 Info: > ProcessingTime:10.5753
+2018-05-16 11:05:00:396 Info: > ProcessingTime:10.8316
+2018-05-16 11:05:00:912 Info: > ProcessingTime:12.42
+2018-05-16 11:05:01:427 Info: > ProcessingTime:10.6492
+2018-05-16 11:05:01:740 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:01:943 Info: > ProcessingTime:10.7027
+2018-05-16 11:05:02:459 Info: > ProcessingTime:15
+2018-05-16 11:05:02:990 Info: > ProcessingTime:10.0734
+2018-05-16 11:05:03:506 Info: > ProcessingTime:11.0349
+2018-05-16 11:05:03:740 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:04:006 Info: > ProcessingTime:14.9728
+2018-05-16 11:05:04:537 Info: > ProcessingTime:10.8899
+2018-05-16 11:05:05:068 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:05:05:584 Info: > ProcessingTime:11.533
+2018-05-16 11:05:05:756 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:06:099 Info: > ProcessingTime:10.1732
+2018-05-16 11:05:06:615 Info: > ProcessingTime:9.2189
+2018-05-16 11:05:07:146 Info: > ProcessingTime:11.4448
+2018-05-16 11:05:07:662 Info: > ProcessingTime:10.7767
+2018-05-16 11:05:07:787 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:08:162 Info: > ProcessingTime:10.6769
+2018-05-16 11:05:08:677 Info: > ProcessingTime:10.6732
+2018-05-16 11:05:09:193 Info: > ProcessingTime:11.005
+2018-05-16 11:05:09:724 Info: > ProcessingTime:16.9679
+2018-05-16 11:05:09:803 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:10:240 Info: > ProcessingTime:10.2038
+2018-05-16 11:05:10:756 Info: > ProcessingTime:13.0684
+2018-05-16 11:05:11:271 Info: > ProcessingTime:10.0032
+2018-05-16 11:05:11:787 Info: > ProcessingTime:14.5987
+2018-05-16 11:05:11:818 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:12:318 Info: > ProcessingTime:10.3746
+2018-05-16 11:05:12:849 Info: > ProcessingTime:10.5887
+2018-05-16 11:05:13:365 Info: > ProcessingTime:13.1999
+2018-05-16 11:05:13:834 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:13:865 Info: > ProcessingTime:15.1014
+2018-05-16 11:05:14:396 Info: > ProcessingTime:15.1081
+2018-05-16 11:05:14:928 Info: > ProcessingTime:10.7334
+2018-05-16 11:05:15:443 Info: > ProcessingTime:11.0109
+2018-05-16 11:05:15:849 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:15:974 Info: > ProcessingTime:20.8316
+2018-05-16 11:05:16:490 Info: > ProcessingTime:10.2055
+2018-05-16 11:05:17:006 Info: > ProcessingTime:9.7485
+2018-05-16 11:05:17:521 Info: > ProcessingTime:11.2178
+2018-05-16 11:05:17:865 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:18:037 Info: > ProcessingTime:10.1818
+2018-05-16 11:05:18:553 Info: > ProcessingTime:10.4491
+2018-05-16 11:05:19:068 Info: > ProcessingTime:10.8289
+2018-05-16 11:05:19:584 Info: > ProcessingTime:10.7329
+2018-05-16 11:05:19:865 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:20:099 Info: > ProcessingTime:10.7183
+2018-05-16 11:05:20:631 Info: > ProcessingTime:16.4609
+2018-05-16 11:05:21:162 Info: > ProcessingTime:10.7436
+2018-05-16 11:05:21:678 Info: > ProcessingTime:13.2908
+2018-05-16 11:05:21:865 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:22:193 Info: > ProcessingTime:14.4422
+2018-05-16 11:05:22:724 Info: > ProcessingTime:10.5769
+2018-05-16 11:05:23:256 Info: > ProcessingTime:16.9208
+2018-05-16 11:05:23:771 Info: > ProcessingTime:9.5753
+2018-05-16 11:05:23:881 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:24:271 Info: > ProcessingTime:12.1664
+2018-05-16 11:05:24:787 Info: > ProcessingTime:10.7998
+2018-05-16 11:05:25:303 Info: > ProcessingTime:10.5037
+2018-05-16 11:05:25:818 Info: > ProcessingTime:12.4708
+2018-05-16 11:05:25:896 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:26:334 Info: > ProcessingTime:10.6258
+2018-05-16 11:05:26:849 Info: > ProcessingTime:10.4316
+2018-05-16 11:05:27:396 Info: > ProcessingTime:10.1646
+2018-05-16 11:05:27:974 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:27:990 Info: > ProcessingTime:80.0383
+2018-05-16 11:05:28:490 Info: > ProcessingTime:14.5533
+2018-05-16 11:05:29:037 Info: > ProcessingTime:12.041
+2018-05-16 11:05:29:553 Info: > ProcessingTime:10.2132
+2018-05-16 11:05:29:990 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:30:053 Info: > ProcessingTime:11.6723
+2018-05-16 11:05:30:599 Info: > ProcessingTime:11.824
+2018-05-16 11:05:31:131 Info: > ProcessingTime:10.4569
+2018-05-16 11:05:31:646 Info: > ProcessingTime:14.9605
+2018-05-16 11:05:31:990 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:32:193 Info: > ProcessingTime:10.933
+2018-05-16 11:05:32:709 Info: > ProcessingTime:10.7702
+2018-05-16 11:05:33:224 Info: > ProcessingTime:12.3659
+2018-05-16 11:05:33:756 Info: > ProcessingTime:10.7528
+2018-05-16 11:05:34:006 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:34:271 Info: > ProcessingTime:11.6693
+2018-05-16 11:05:34:787 Info: > ProcessingTime:10.7987
+2018-05-16 11:05:35:303 Info: > ProcessingTime:10.5174
+2018-05-16 11:05:35:834 Info: > ProcessingTime:16.5593
+2018-05-16 11:05:36:021 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:36:349 Info: > ProcessingTime:10.0277
+2018-05-16 11:05:36:865 Info: > ProcessingTime:10.6457
+2018-05-16 11:05:37:381 Info: > ProcessingTime:10.5935
+2018-05-16 11:05:37:896 Info: > ProcessingTime:11.6198
+2018-05-16 11:05:38:021 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:38:396 Info: > ProcessingTime:10.5876
+2018-05-16 11:05:38:912 Info: > ProcessingTime:10.3007
+2018-05-16 11:05:39:428 Info: > ProcessingTime:10.3531
+2018-05-16 11:05:39:943 Info: > ProcessingTime:13.5724
+2018-05-16 11:05:40:037 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:40:459 Info: > ProcessingTime:10.9174
+2018-05-16 11:05:40:974 Info: > ProcessingTime:10.0269
+2018-05-16 11:05:41:490 Info: > ProcessingTime:14.3139
+2018-05-16 11:05:42:006 Info: > ProcessingTime:11.1653
+2018-05-16 11:05:42:053 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:42:521 Info: > ProcessingTime:10.3856
+2018-05-16 11:05:43:037 Info: > ProcessingTime:13.1558
+2018-05-16 11:05:43:568 Info: > ProcessingTime:10.259
+2018-05-16 11:05:44:068 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:44:084 Info: > ProcessingTime:18.0657
+2018-05-16 11:05:44:599 Info: > ProcessingTime:10.1977
+2018-05-16 11:05:45:115 Info: > ProcessingTime:10.2498
+2018-05-16 11:05:45:631 Info: > ProcessingTime:11.8288
+2018-05-16 11:05:46:084 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:46:146 Info: > ProcessingTime:10.0699
+2018-05-16 11:05:46:662 Info: > ProcessingTime:11.2059
+2018-05-16 11:05:47:178 Info: > ProcessingTime:9.7786
+2018-05-16 11:05:47:724 Info: > ProcessingTime:10.8437
+2018-05-16 11:05:48:099 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:48:240 Info: > ProcessingTime:11.6828
+2018-05-16 11:05:48:756 Info: > ProcessingTime:10.7737
+2018-05-16 11:05:49:271 Info: > ProcessingTime:10.9566
+2018-05-16 11:05:49:787 Info: > ProcessingTime:13.0178
+2018-05-16 11:05:50:115 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:50:287 Info: > ProcessingTime:10.0812
+2018-05-16 11:05:50:818 Info: > ProcessingTime:14.7394
+2018-05-16 11:05:51:349 Info: > ProcessingTime:10.4631
+2018-05-16 11:05:51:865 Info: > ProcessingTime:10.7614
+2018-05-16 11:05:52:131 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:52:381 Info: > ProcessingTime:10.2103
+2018-05-16 11:05:52:896 Info: > ProcessingTime:10.6463
+2018-05-16 11:05:53:412 Info: > ProcessingTime:10.6124
+2018-05-16 11:05:53:928 Info: > ProcessingTime:10.9292
+2018-05-16 11:05:54:146 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:54:443 Info: > ProcessingTime:14.8661
+2018-05-16 11:05:54:974 Info: > ProcessingTime:11.6602
+2018-05-16 11:05:55:506 Info: > ProcessingTime:10.2738
+2018-05-16 11:05:56:021 Info: > ProcessingTime:10.2022
+2018-05-16 11:05:56:162 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:56:537 Info: > ProcessingTime:10.2891
+2018-05-16 11:05:57:068 Info: > ProcessingTime:10.6105
+2018-05-16 11:05:57:584 Info: > ProcessingTime:13.4084
+2018-05-16 11:05:58:099 Info: > ProcessingTime:10.2434
+2018-05-16 11:05:58:162 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:05:58:646 Error: > Mainframe_StartEdgeAnalyser: Attempted to divide by zero.
+2018-05-16 11:05:59:162 Info: > ProcessingTime:10.1361
+2018-05-16 11:05:59:678 Info: > ProcessingTime:10.5941
+2018-05-16 11:06:00:209 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:06:00:209 Info: > ProcessingTime:39.7233
+2018-05-16 11:06:00:724 Info: > ProcessingTime:10.1713
+2018-05-16 11:06:01:240 Info: > ProcessingTime:10.174
+2018-05-16 11:06:01:756 Info: > ProcessingTime:13.262
+2018-05-16 11:06:02:224 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:06:02:318 Info: > ProcessingTime:12.3543
+2018-05-16 11:06:02:834 Info: > ProcessingTime:9.9752
+2018-05-16 11:06:03:372 Info: > ProcessingTime:10.2041
+2018-05-16 11:46:29:534 Error: > Mainframe_InitConfig: Value cannot be null.
+Parameter name: value
+2018-05-16 11:46:29:545 Error: > Mainframe_InitChartType: Index was outside the bounds of the array.
+2018-05-16 11:46:29:556 Error: > Mainframe_InitChart: A chart element with the name 'Analyse Graph' could not be found in the 'SeriesCollection'.
+2018-05-16 11:46:31:828 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:31:897 Info: > ProcessingTime:149.7967
+2018-05-16 11:46:32:511 Info: > ProcessingTime:16.3262
+2018-05-16 11:46:33:035 Info: > ProcessingTime:15.7657
+2018-05-16 11:46:33:557 Info: > ProcessingTime:14.4903
+2018-05-16 11:46:34:074 Info: > ProcessingTime:13.4447
+2018-05-16 11:46:34:588 Info: > ProcessingTime:11.0214
+2018-05-16 11:46:35:101 Info: > ProcessingTime:9.9868
+2018-05-16 11:46:35:615 Info: > ProcessingTime:11.1831
+2018-05-16 11:46:35:859 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:36:148 Info: > ProcessingTime:16.6537
+2018-05-16 11:46:36:661 Info: > ProcessingTime:9.5309
+2018-05-16 11:46:37:174 Info: > ProcessingTime:10.752
+2018-05-16 11:46:37:690 Info: > ProcessingTime:10.8146
+2018-05-16 11:46:37:882 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:38:205 Info: > ProcessingTime:11.4235
+2018-05-16 11:46:38:725 Info: > ProcessingTime:15.5379
+2018-05-16 11:46:39:239 Info: > ProcessingTime:11.4727
+2018-05-16 11:46:39:751 Info: > ProcessingTime:10.3816
+2018-05-16 11:46:39:892 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:40:274 Info: > ProcessingTime:11.0292
+2018-05-16 11:46:40:788 Info: > ProcessingTime:10.3238
+2018-05-16 11:46:41:306 Info: > ProcessingTime:12.5536
+2018-05-16 11:46:41:818 Info: > ProcessingTime:10.4852
+2018-05-16 11:46:41:914 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:42:335 Info: > ProcessingTime:11.5981
+2018-05-16 11:46:42:848 Info: > ProcessingTime:10.3881
+2018-05-16 11:46:43:363 Info: > ProcessingTime:10.4768
+2018-05-16 11:46:43:875 Info: > ProcessingTime:10.7928
+2018-05-16 11:46:43:937 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:44:417 Info: > ProcessingTime:13.3532
+2018-05-16 11:46:44:932 Info: > ProcessingTime:10.3676
+2018-05-16 11:46:45:451 Info: > ProcessingTime:9.7703
+2018-05-16 11:46:45:961 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:45:972 Info: > ProcessingTime:10.4892
+2018-05-16 11:46:46:486 Info: > ProcessingTime:10.5677
+2018-05-16 11:46:47:001 Info: > ProcessingTime:10.5043
+2018-05-16 11:46:47:516 Info: > ProcessingTime:10.5115
+2018-05-16 11:46:47:984 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:48:042 Info: > ProcessingTime:10.8418
+2018-05-16 11:46:48:559 Info: > ProcessingTime:12.8463
+2018-05-16 11:46:49:073 Info: > ProcessingTime:10.7659
+2018-05-16 11:46:49:592 Info: > ProcessingTime:13.5014
+2018-05-16 11:46:50:005 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:50:114 Info: > ProcessingTime:13.2429
+2018-05-16 11:46:50:632 Info: > ProcessingTime:11.0045
+2018-05-16 11:46:51:146 Info: > ProcessingTime:11.594
+2018-05-16 11:46:51:663 Info: > ProcessingTime:10.3184
+2018-05-16 11:46:52:014 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:52:188 Info: > ProcessingTime:11.012
+2018-05-16 11:46:52:701 Info: > ProcessingTime:10.9359
+2018-05-16 11:46:53:219 Info: > ProcessingTime:13.0665
+2018-05-16 11:46:53:733 Info: > ProcessingTime:10.5828
+2018-05-16 11:46:54:036 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:54:253 Info: > ProcessingTime:12.2707
+2018-05-16 11:46:54:768 Info: > ProcessingTime:10.6842
+2018-05-16 11:46:55:287 Info: > ProcessingTime:11.9907
+2018-05-16 11:46:55:803 Info: > ProcessingTime:11.6244
+2018-05-16 11:46:56:057 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:56:319 Info: > ProcessingTime:13.7798
+2018-05-16 11:46:56:840 Info: > ProcessingTime:10.9157
+2018-05-16 11:46:57:359 Info: > ProcessingTime:11.2794
+2018-05-16 11:46:57:871 Info: > ProcessingTime:10.9042
+2018-05-16 11:46:58:077 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:46:58:398 Info: > ProcessingTime:16.0548
+2018-05-16 11:46:58:920 Info: > ProcessingTime:13.9479
+2018-05-16 11:46:59:433 Info: > ProcessingTime:10.8082
+2018-05-16 11:46:59:945 Info: > ProcessingTime:10.5777
+2018-05-16 11:47:00:103 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 11:47:00:461 Info: > ProcessingTime:10.5481
+2018-05-16 11:47:00:978 Info: > ProcessingTime:10.4722
+2018-05-16 11:47:01:504 Info: > ProcessingTime:20.0167
+2018-05-16 13:44:00:089 Error: > Mainframe_InitConfig: Value cannot be null.
+Parameter name: value
+2018-05-16 13:44:00:104 Error: > Mainframe_InitChartType: Index was outside the bounds of the array.
+2018-05-16 13:44:00:123 Error: > Mainframe_InitChart: A chart element with the name 'Analyse Graph' could not be found in the 'SeriesCollection'.
+2018-05-16 13:44:02:403 Info: > ProcessingTime:128.6316
+2018-05-16 13:44:03:053 Info: > ProcessingTime:15.2181
+2018-05-16 13:44:03:585 Info: > ProcessingTime:10.7318
+2018-05-16 13:44:04:124 Info: > ProcessingTime:11.8428
+2018-05-16 13:44:04:352 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:04:655 Info: > ProcessingTime:15.7143
+2018-05-16 13:44:05:171 Info: > ProcessingTime:10.1382
+2018-05-16 13:44:05:688 Info: > ProcessingTime:10.661
+2018-05-16 13:44:06:212 Info: > ProcessingTime:10.2633
+2018-05-16 13:44:06:728 Info: > ProcessingTime:11.4187
+2018-05-16 13:44:07:243 Info: > ProcessingTime:10.8423
+2018-05-16 13:44:07:759 Info: > ProcessingTime:10.8361
+2018-05-16 13:44:08:285 Info: > ProcessingTime:10.4733
+2018-05-16 13:44:08:377 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:08:808 Info: > ProcessingTime:17.8503
+2018-05-16 13:44:09:345 Info: > ProcessingTime:10.7595
+2018-05-16 13:44:09:876 Info: > ProcessingTime:10.3085
+2018-05-16 13:44:10:404 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:10:431 Info: > ProcessingTime:47.4453
+2018-05-16 13:44:10:947 Info: > ProcessingTime:13.6797
+2018-05-16 13:44:11:463 Info: > ProcessingTime:10.99
+2018-05-16 13:44:11:992 Info: > ProcessingTime:15.1199
+2018-05-16 13:44:12:415 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:12:513 Info: > ProcessingTime:11.5314
+2018-05-16 13:44:13:018 Info: > ProcessingTime:10.5306
+2018-05-16 13:44:13:534 Info: > ProcessingTime:10.1476
+2018-05-16 13:44:14:055 Info: > ProcessingTime:11.2592
+2018-05-16 13:44:14:435 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:14:568 Info: > ProcessingTime:10.3469
+2018-05-16 13:44:15:082 Info: > ProcessingTime:11.0693
+2018-05-16 13:44:15:620 Info: > ProcessingTime:10.5704
+2018-05-16 13:44:16:144 Info: > ProcessingTime:14.8494
+2018-05-16 13:44:16:457 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:16:655 Info: > ProcessingTime:10.3808
+2018-05-16 13:44:17:199 Info: > ProcessingTime:11.3902
+2018-05-16 13:44:17:722 Info: > ProcessingTime:10.7791
+2018-05-16 13:44:18:239 Info: > ProcessingTime:9.4758
+2018-05-16 13:44:18:467 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:18:754 Info: > ProcessingTime:11.0427
+2018-05-16 13:44:19:270 Info: > ProcessingTime:14.2327
+2018-05-16 13:44:19:786 Info: > ProcessingTime:10.6871
+2018-05-16 13:44:20:319 Info: > ProcessingTime:10.6594
+2018-05-16 13:44:20:481 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:20:845 Info: > ProcessingTime:13.2271
+2018-05-16 13:44:21:361 Info: > ProcessingTime:9.9768
+2018-05-16 13:44:21:884 Info: > ProcessingTime:10.3243
+2018-05-16 13:44:22:400 Info: > ProcessingTime:10.1414
+2018-05-16 13:44:22:492 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:22:932 Info: > ProcessingTime:10.2391
+2018-05-16 13:44:23:479 Info: > ProcessingTime:10.532
+2018-05-16 13:44:24:000 Info: > ProcessingTime:10.483
+2018-05-16 13:44:24:541 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:24:541 Info: > ProcessingTime:34.4931
+2018-05-16 13:44:25:080 Info: > ProcessingTime:9.9354
+2018-05-16 13:44:25:596 Info: > ProcessingTime:11.7826
+2018-05-16 13:44:26:120 Info: > ProcessingTime:10.6532
+2018-05-16 13:44:26:567 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:26:635 Info: > ProcessingTime:10.7592
+2018-05-16 13:44:27:182 Info: > ProcessingTime:17.839
+2018-05-16 13:44:27:698 Info: > ProcessingTime:11.6427
+2018-05-16 13:44:28:224 Info: > ProcessingTime:11.7793
+2018-05-16 13:44:28:577 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:28:737 Info: > ProcessingTime:10.2369
+2018-05-16 13:44:29:253 Info: > ProcessingTime:10.781
+2018-05-16 13:44:29:769 Info: > ProcessingTime:14.1993
+2018-05-16 13:44:30:299 Info: > ProcessingTime:13.4215
+2018-05-16 13:44:30:595 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:30:802 Info: > ProcessingTime:10.8657
+2018-05-16 13:44:31:340 Info: > ProcessingTime:11.4913
+2018-05-16 13:44:31:872 Info: > ProcessingTime:11.3582
+2018-05-16 13:44:32:392 Info: > ProcessingTime:11.6045
+2018-05-16 13:44:32:613 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:32:908 Info: > ProcessingTime:10.5726
+2018-05-16 13:44:33:449 Info: > ProcessingTime:13.1849
+2018-05-16 13:44:33:966 Info: > ProcessingTime:10.9763
+2018-05-16 13:44:34:483 Info: > ProcessingTime:10.6844
+2018-05-16 13:44:34:625 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:34:998 Info: > ProcessingTime:11.0255
+2018-05-16 13:44:35:518 Info: > ProcessingTime:11.7433
+2018-05-16 13:44:36:057 Info: > ProcessingTime:9.7469
+2018-05-16 13:44:36:579 Info: > ProcessingTime:13.3699
+2018-05-16 13:44:36:641 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:37:109 Info: > ProcessingTime:10.203
+2018-05-16 13:44:37:629 Info: > ProcessingTime:13.9019
+2018-05-16 13:44:38:161 Info: > ProcessingTime:10.2321
+2018-05-16 13:44:38:698 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:38:698 Info: > ProcessingTime:42.4601
+2018-05-16 13:44:39:233 Info: > ProcessingTime:10.4897
+2018-05-16 13:44:39:753 Info: > ProcessingTime:11.4534
+2018-05-16 13:44:40:284 Info: > ProcessingTime:10.2765
+2018-05-16 13:44:40:712 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:40:796 Info: > ProcessingTime:12.0106
+2018-05-16 13:44:41:312 Info: > ProcessingTime:10.3149
+2018-05-16 13:44:41:837 Info: > ProcessingTime:10.5317
+2018-05-16 13:44:42:349 Info: > ProcessingTime:10.8455
+2018-05-16 13:44:42:729 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:42:861 Info: > ProcessingTime:10.643
+2018-05-16 13:44:43:384 Info: > ProcessingTime:12.5117
+2018-05-16 13:44:43:904 Info: > ProcessingTime:10.9348
+2018-05-16 13:44:44:425 Info: > ProcessingTime:13.9134
+2018-05-16 13:44:44:748 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:44:932 Info: > ProcessingTime:10.9512
+2018-05-16 13:44:45:451 Info: > ProcessingTime:10.4354
+2018-05-16 13:44:45:979 Info: > ProcessingTime:10.6094
+2018-05-16 13:44:46:491 Info: > ProcessingTime:11.2613
+2018-05-16 13:44:46:769 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:47:006 Info: > ProcessingTime:11.4854
+2018-05-16 13:44:47:522 Info: > ProcessingTime:10.3109
+2018-05-16 13:44:48:044 Info: > ProcessingTime:10.742
+2018-05-16 13:44:48:562 Info: > ProcessingTime:10.2264
+2018-05-16 13:44:48:773 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:49:072 Info: > ProcessingTime:13.3823
+2018-05-16 13:44:49:594 Info: > ProcessingTime:10.3278
+2018-05-16 13:44:50:118 Info: > ProcessingTime:12.8204
+2018-05-16 13:44:50:641 Info: > ProcessingTime:10.4093
+2018-05-16 13:44:50:773 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:51:158 Info: > ProcessingTime:15.05
+2018-05-16 13:44:51:699 Info: > ProcessingTime:11.8939
+2018-05-16 13:44:52:219 Info: > ProcessingTime:13.7405
+2018-05-16 13:44:52:748 Info: > ProcessingTime:10.5441
+2018-05-16 13:44:52:779 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:53:264 Info: > ProcessingTime:10.1804
+2018-05-16 13:44:53:785 Info: > ProcessingTime:10.987
+2018-05-16 13:44:54:310 Info: > ProcessingTime:10.0309
+2018-05-16 13:44:54:803 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:54:818 Info: > ProcessingTime:15.0161
+2018-05-16 13:44:55:366 Info: > ProcessingTime:10.9348
+2018-05-16 13:44:55:904 Info: > ProcessingTime:10.4658
+2018-05-16 13:44:56:427 Info: > ProcessingTime:12.246
+2018-05-16 13:44:56:820 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:56:936 Info: > ProcessingTime:11.7793
+2018-05-16 13:44:57:467 Info: > ProcessingTime:12.5211
+2018-05-16 13:44:57:996 Info: > ProcessingTime:10.4688
+2018-05-16 13:44:58:512 Info: > ProcessingTime:10.3364
+2018-05-16 13:44:58:840 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:44:59:024 Info: > ProcessingTime:11.0645
+2018-05-16 13:44:59:541 Info: > ProcessingTime:10.2176
+2018-05-16 13:45:00:067 Info: > ProcessingTime:10.6694
+2018-05-16 13:45:00:577 Info: > ProcessingTime:10.703
+2018-05-16 13:45:00:860 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:01:115 Info: > ProcessingTime:15.6113
+2018-05-16 13:45:01:651 Info: > ProcessingTime:10.5925
+2018-05-16 13:45:02:177 Info: > ProcessingTime:10.1046
+2018-05-16 13:45:02:684 Info: > ProcessingTime:10.6559
+2018-05-16 13:45:02:869 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:03:200 Info: > ProcessingTime:13.6953
+2018-05-16 13:45:03:729 Info: > ProcessingTime:10.8079
+2018-05-16 13:45:04:253 Info: > ProcessingTime:15.1277
+2018-05-16 13:45:04:773 Info: > ProcessingTime:10.7751
+2018-05-16 13:45:04:888 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:05:288 Info: > ProcessingTime:10.6514
+2018-05-16 13:45:05:814 Info: > ProcessingTime:10.3784
+2018-05-16 13:45:06:325 Info: > ProcessingTime:10.2896
+2018-05-16 13:45:06:844 Info: > ProcessingTime:10.6436
+2018-05-16 13:45:06:906 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:07:345 Info: > ProcessingTime:10.4666
+2018-05-16 13:45:07:866 Info: > ProcessingTime:11.6164
+2018-05-16 13:45:08:388 Info: > ProcessingTime:10.4273
+2018-05-16 13:45:08:932 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:08:947 Info: > ProcessingTime:22.4679
+2018-05-16 13:45:09:479 Info: > ProcessingTime:13.9218
+2018-05-16 13:45:10:013 Info: > ProcessingTime:10.2221
+2018-05-16 13:45:10:533 Info: > ProcessingTime:10.5424
+2018-05-16 13:45:10:950 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:11:051 Info: > ProcessingTime:10.6826
+2018-05-16 13:45:11:566 Info: > ProcessingTime:10.7065
+2018-05-16 13:45:12:091 Info: > ProcessingTime:10.6804
+2018-05-16 13:45:12:604 Info: > ProcessingTime:15.2402
+2018-05-16 13:45:12:951 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:13:113 Info: > ProcessingTime:13.3078
+2018-05-16 13:45:13:644 Info: > ProcessingTime:14.446
+2018-05-16 13:45:14:164 Info: > ProcessingTime:13.2346
+2018-05-16 13:45:14:668 Info: > ProcessingTime:11.0825
+2018-05-16 13:45:15:101 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:15:197 Info: > ProcessingTime:15.3991
+2018-05-16 13:45:15:724 Info: > ProcessingTime:14.0057
+2018-05-16 13:45:16:238 Info: > ProcessingTime:18.14
+2018-05-16 13:45:16:755 Info: > ProcessingTime:11.6726
+2018-05-16 13:45:17:135 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:17:263 Info: > ProcessingTime:10.1369
+2018-05-16 13:45:17:786 Info: > ProcessingTime:10.7872
+2018-05-16 13:45:18:302 Info: > ProcessingTime:10.7643
+2018-05-16 13:45:18:816 Info: > ProcessingTime:11.2164
+2018-05-16 13:45:19:152 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:19:337 Info: > ProcessingTime:13.2688
+2018-05-16 13:45:19:865 Info: > ProcessingTime:11.2627
+2018-05-16 13:45:20:389 Info: > ProcessingTime:13.9922
+2018-05-16 13:45:20:909 Info: > ProcessingTime:14.8152
+2018-05-16 13:45:21:173 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:21:445 Info: > ProcessingTime:11.1497
+2018-05-16 13:45:21:961 Info: > ProcessingTime:12.5518
+2018-05-16 13:45:22:506 Info: > ProcessingTime:13.0178
+2018-05-16 13:45:23:025 Info: > ProcessingTime:13.0708
+2018-05-16 13:45:23:193 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:23:540 Info: > ProcessingTime:10.4341
+2018-05-16 13:45:24:065 Info: > ProcessingTime:11.2702
+2018-05-16 13:45:24:578 Info: > ProcessingTime:10.2439
+2018-05-16 13:45:25:107 Info: > ProcessingTime:14.9424
+2018-05-16 13:45:25:211 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:25:683 Info: > ProcessingTime:15.171
+2018-05-16 13:45:26:204 Info: > ProcessingTime:11.1016
+2018-05-16 13:45:26:741 Info: > ProcessingTime:16.16
+2018-05-16 13:45:27:269 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:27:281 Info: > ProcessingTime:38.7376
+2018-05-16 13:45:27:833 Info: > ProcessingTime:11.8579
+2018-05-16 13:45:28:386 Info: > ProcessingTime:21.7097
+2018-05-16 13:45:28:914 Info: > ProcessingTime:12.6343
+2018-05-16 13:45:29:279 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:29:439 Info: > ProcessingTime:12.4073
+2018-05-16 13:45:29:956 Info: > ProcessingTime:16.2713
+2018-05-16 13:45:30:496 Info: > ProcessingTime:14.177
+2018-05-16 13:45:31:025 Info: > ProcessingTime:15.3601
+2018-05-16 13:45:31:292 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:31:554 Info: > ProcessingTime:9.6122
+2018-05-16 13:45:32:069 Info: > ProcessingTime:10.3004
+2018-05-16 13:45:32:602 Info: > ProcessingTime:21.2745
+2018-05-16 13:45:33:125 Info: > ProcessingTime:11.4198
+2018-05-16 13:45:33:313 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:33:635 Info: > ProcessingTime:12.0273
+2018-05-16 13:45:34:159 Info: > ProcessingTime:10.9278
+2018-05-16 13:45:34:684 Info: > ProcessingTime:11.7734
+2018-05-16 13:45:35:212 Info: > ProcessingTime:15.4865
+2018-05-16 13:45:35:738 Info: > ProcessingTime:11.4388
+2018-05-16 13:45:36:261 Info: > ProcessingTime:10.1998
+2018-05-16 13:45:36:778 Info: > ProcessingTime:12.428
+2018-05-16 13:45:37:299 Info: > ProcessingTime:14.0654
+2018-05-16 13:45:37:349 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:37:810 Info: > ProcessingTime:11.0957
+2018-05-16 13:45:38:326 Info: > ProcessingTime:10.1796
+2018-05-16 13:45:38:852 Info: > ProcessingTime:12.1179
+2018-05-16 13:45:39:376 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:39:384 Info: > ProcessingTime:26.0258
+2018-05-16 13:45:39:911 Info: > ProcessingTime:12.3807
+2018-05-16 13:45:40:426 Info: > ProcessingTime:10.9701
+2018-05-16 13:45:40:938 Info: > ProcessingTime:11.3619
+2018-05-16 13:45:41:403 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:41:457 Info: > ProcessingTime:10.217
+2018-05-16 13:45:41:967 Info: > ProcessingTime:10.8673
+2018-05-16 13:45:42:482 Info: > ProcessingTime:10.5578
+2018-05-16 13:45:43:002 Info: > ProcessingTime:10.959
+2018-05-16 13:45:43:419 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:43:528 Info: > ProcessingTime:9.9314
+2018-05-16 13:45:44:037 Info: > ProcessingTime:10.4865
+2018-05-16 13:45:44:576 Info: > ProcessingTime:13.9398
+2018-05-16 13:45:45:093 Info: > ProcessingTime:10.5115
+2018-05-16 13:45:45:442 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:45:615 Info: > ProcessingTime:16.6745
+2018-05-16 13:45:46:127 Info: > ProcessingTime:10.0107
+2018-05-16 13:45:46:680 Info: > ProcessingTime:10.3835
+2018-05-16 13:45:47:197 Info: > ProcessingTime:10.5874
+2018-05-16 13:45:47:713 Info: > ProcessingTime:10.0427
+2018-05-16 13:45:48:244 Info: > ProcessingTime:10.5613
+2018-05-16 13:45:48:776 Info: > ProcessingTime:17.3509
+2018-05-16 13:45:49:297 Info: > ProcessingTime:10.994
+2018-05-16 13:45:49:480 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:49:817 Info: > ProcessingTime:10.277
+2018-05-16 13:45:50:333 Info: > ProcessingTime:10.4583
+2018-05-16 13:45:50:847 Info: > ProcessingTime:14.4053
+2018-05-16 13:45:51:368 Info: > ProcessingTime:19.2781
+2018-05-16 13:45:51:503 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:51:888 Info: > ProcessingTime:16.9652
+2018-05-16 13:45:52:404 Info: > ProcessingTime:11.8277
+2018-05-16 13:45:52:925 Info: > ProcessingTime:9.3922
+2018-05-16 13:45:53:453 Info: > ProcessingTime:10.2595
+2018-05-16 13:45:53:968 Info: > ProcessingTime:15.3437
+2018-05-16 13:45:54:506 Info: > ProcessingTime:11.0096
+2018-05-16 13:45:55:015 Info: > ProcessingTime:10.9104
+2018-05-16 13:45:55:572 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:55:578 Info: > ProcessingTime:33.5184
+2018-05-16 13:45:56:182 Info: > ProcessingTime:13.0956
+2018-05-16 13:45:56:692 Info: > ProcessingTime:11.4103
+2018-05-16 13:45:57:224 Info: > ProcessingTime:10.7154
+2018-05-16 13:45:57:593 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:57:740 Info: > ProcessingTime:10.3943
+2018-05-16 13:45:58:255 Info: > ProcessingTime:14.0883
+2018-05-16 13:45:58:774 Info: > ProcessingTime:10.1769
+2018-05-16 13:45:59:313 Info: > ProcessingTime:11.8549
+2018-05-16 13:45:59:613 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:45:59:845 Info: > ProcessingTime:15.9053
+2018-05-16 13:46:00:427 Info: > ProcessingTime:18.2182
+2018-05-16 13:46:00:943 Info: > ProcessingTime:13.7515
+2018-05-16 13:46:01:475 Info: > ProcessingTime:15.2057
+2018-05-16 13:46:01:644 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:02:008 Info: > ProcessingTime:16.6059
+2018-05-16 13:46:02:539 Info: > ProcessingTime:18.1986
+2018-05-16 13:46:03:060 Info: > ProcessingTime:15.1479
+2018-05-16 13:46:03:600 Info: > ProcessingTime:11.3705
+2018-05-16 13:46:03:660 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:04:120 Info: > ProcessingTime:10.1872
+2018-05-16 13:46:04:641 Info: > ProcessingTime:14.5646
+2018-05-16 13:46:05:154 Info: > ProcessingTime:10.4518
+2018-05-16 13:46:05:682 Info: > ProcessingTime:20.6285
+2018-05-16 13:46:06:271 Info: > ProcessingTime:30.8617
+2018-05-16 13:46:06:936 Info: > ProcessingTime:18.2661
+2018-05-16 13:46:07:520 Info: > ProcessingTime:16.0166
+2018-05-16 13:46:07:690 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:08:029 Info: > ProcessingTime:11.3818
+2018-05-16 13:46:08:554 Info: > ProcessingTime:13.8311
+2018-05-16 13:46:09:080 Info: > ProcessingTime:12.7231
+2018-05-16 13:46:09:596 Info: > ProcessingTime:14.6458
+2018-05-16 13:46:10:121 Info: > ProcessingTime:12.2175
+2018-05-16 13:46:10:636 Info: > ProcessingTime:10.2958
+2018-05-16 13:46:11:146 Info: > ProcessingTime:10.1616
+2018-05-16 13:46:11:670 Info: > ProcessingTime:10.6998
+2018-05-16 13:46:11:701 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:12:223 Info: > ProcessingTime:13.0154
+2018-05-16 13:46:12:740 Info: > ProcessingTime:11.0491
+2018-05-16 13:46:13:269 Info: > ProcessingTime:13.4092
+2018-05-16 13:46:13:725 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:13:788 Info: > ProcessingTime:11.1368
+2018-05-16 13:46:14:318 Info: > ProcessingTime:12.2357
+2018-05-16 13:46:14:842 Info: > ProcessingTime:10.5537
+2018-05-16 13:46:15:359 Info: > ProcessingTime:14.7714
+2018-05-16 13:46:15:767 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:15:899 Info: > ProcessingTime:17.2062
+2018-05-16 13:46:16:414 Info: > ProcessingTime:10.4236
+2018-05-16 13:46:16:927 Info: > ProcessingTime:11.9767
+2018-05-16 13:46:17:452 Info: > ProcessingTime:9.9841
+2018-05-16 13:46:17:775 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:17:959 Info: > ProcessingTime:10.6441
+2018-05-16 13:46:18:475 Info: > ProcessingTime:10.1772
+2018-05-16 13:46:18:992 Info: > ProcessingTime:10.3792
+2018-05-16 13:46:19:502 Info: > ProcessingTime:9.7501
+2018-05-16 13:46:19:791 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:20:010 Info: > ProcessingTime:13.0816
+2018-05-16 13:46:20:541 Info: > ProcessingTime:10.3348
+2018-05-16 13:46:21:063 Info: > ProcessingTime:11.381
+2018-05-16 13:46:21:583 Info: > ProcessingTime:10.4757
+2018-05-16 13:46:32:363 Error: > Mainframe_InitConfig: Value cannot be null.
+Parameter name: value
+2018-05-16 13:46:32:379 Error: > Mainframe_InitChartType: Index was outside the bounds of the array.
+2018-05-16 13:46:32:410 Error: > Mainframe_InitChart: A chart element with the name 'Analyse Graph' could not be found in the 'SeriesCollection'.
+2018-05-16 13:46:34:691 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:34:816 Info: > ProcessingTime:159.8801
+2018-05-16 13:46:35:467 Info: > ProcessingTime:19
+2018-05-16 13:46:36:006 Info: > ProcessingTime:16.5255
+2018-05-16 13:46:36:522 Info: > ProcessingTime:11.459
+2018-05-16 13:46:36:694 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:37:038 Info: > ProcessingTime:11.3342
+2018-05-16 13:46:37:571 Info: > ProcessingTime:11.8259
+2018-05-16 13:46:38:084 Info: > ProcessingTime:10.6366
+2018-05-16 13:46:38:600 Info: > ProcessingTime:10.3789
+2018-05-16 13:46:38:725 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:39:114 Info: > ProcessingTime:13.9151
+2018-05-16 13:46:39:630 Info: > ProcessingTime:9.6388
+2018-05-16 13:46:40:146 Info: > ProcessingTime:13.9384
+2018-05-16 13:46:40:677 Info: > ProcessingTime:10.3561
+2018-05-16 13:46:40:739 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:41:192 Info: > ProcessingTime:11.0309
+2018-05-16 13:46:41:707 Info: > ProcessingTime:10.2552
+2018-05-16 13:46:42:222 Info: > ProcessingTime:10.7866
+2018-05-16 13:46:42:722 Info: > ProcessingTime:11.59
+2018-05-16 13:46:42:754 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:43:233 Info: > ProcessingTime:10.2541
+2018-05-16 13:46:43:754 Info: > ProcessingTime:10.653
+2018-05-16 13:46:44:270 Info: > ProcessingTime:10.1708
+2018-05-16 13:46:44:754 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:44:786 Info: > ProcessingTime:10.5935
+2018-05-16 13:46:45:297 Info: > ProcessingTime:11.5558
+2018-05-16 13:46:45:816 Info: > ProcessingTime:10.7267
+2018-05-16 13:46:46:332 Info: > ProcessingTime:12.4197
+2018-05-16 13:46:46:754 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:46:832 Info: > ProcessingTime:11.9566
+2018-05-16 13:46:47:369 Info: > ProcessingTime:10.3461
+2018-05-16 13:46:47:884 Info: > ProcessingTime:13.6561
+2018-05-16 13:46:48:399 Info: > ProcessingTime:9.7477
+2018-05-16 13:46:48:759 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:48:931 Info: > ProcessingTime:15.0118
+2018-05-16 13:46:49:454 Info: > ProcessingTime:10.415
+2018-05-16 13:46:49:982 Info: > ProcessingTime:13.1074
+2018-05-16 13:46:50:518 Info: > ProcessingTime:13.7367
+2018-05-16 13:46:50:790 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:51:038 Info: > ProcessingTime:13.896
+2018-05-16 13:46:51:555 Info: > ProcessingTime:9.5995
+2018-05-16 13:46:52:071 Info: > ProcessingTime:11.6572
+2018-05-16 13:46:52:618 Info: > ProcessingTime:10.9098
+2018-05-16 13:46:52:790 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:53:165 Info: > ProcessingTime:13.804
+2018-05-16 13:46:53:695 Info: > ProcessingTime:10.5411
+2018-05-16 13:46:54:242 Info: > ProcessingTime:20.7848
+2018-05-16 13:46:54:757 Info: > ProcessingTime:10.174
+2018-05-16 13:46:54:804 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:55:289 Info: > ProcessingTime:13.0264
+2018-05-16 13:46:55:818 Info: > ProcessingTime:10.5465
+2018-05-16 13:46:56:334 Info: > ProcessingTime:10.2775
+2018-05-16 13:46:56:818 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:56:834 Info: > ProcessingTime:14.7582
+2018-05-16 13:46:57:361 Info: > ProcessingTime:10.6576
+2018-05-16 13:46:57:880 Info: > ProcessingTime:11.143
+2018-05-16 13:46:58:411 Info: > ProcessingTime:10.1401
+2018-05-16 13:46:58:833 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:46:58:942 Info: > ProcessingTime:16.941
+2018-05-16 13:46:59:490 Info: > ProcessingTime:11.4891
+2018-05-16 13:47:00:018 Info: > ProcessingTime:16.501
+2018-05-16 13:47:00:549 Info: > ProcessingTime:14.649
+2018-05-16 13:47:00:846 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:01:049 Info: > ProcessingTime:10.9873
+2018-05-16 13:47:01:583 Info: > ProcessingTime:12.47
+2018-05-16 13:47:02:100 Info: > ProcessingTime:10.7062
+2018-05-16 13:47:02:678 Info: > ProcessingTime:10.8095
+2018-05-16 13:47:02:850 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:03:193 Info: > ProcessingTime:10.1245
+2018-05-16 13:47:03:714 Info: > ProcessingTime:11.0927
+2018-05-16 13:47:04:230 Info: > ProcessingTime:10.0742
+2018-05-16 13:47:04:761 Info: > ProcessingTime:10.6484
+2018-05-16 13:47:04:855 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:05:277 Info: > ProcessingTime:9.7749
+2018-05-16 13:47:05:794 Info: > ProcessingTime:10.4144
+2018-05-16 13:47:06:325 Info: > ProcessingTime:11.8398
+2018-05-16 13:47:06:840 Info: > ProcessingTime:15.9986
+2018-05-16 13:47:06:856 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:07:356 Info: > ProcessingTime:10.5521
+2018-05-16 13:47:07:872 Info: > ProcessingTime:11.3856
+2018-05-16 13:47:08:403 Info: > ProcessingTime:10.6863
+2018-05-16 13:47:08:856 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:08:903 Info: > ProcessingTime:11.0782
+2018-05-16 13:47:09:418 Info: > ProcessingTime:12.1685
+2018-05-16 13:47:09:924 Info: > ProcessingTime:10.7546
+2018-05-16 13:47:10:440 Info: > ProcessingTime:10.8983
+2018-05-16 13:47:10:862 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:10:956 Info: > ProcessingTime:12.1951
+2018-05-16 13:47:11:473 Info: > ProcessingTime:14.0858
+2018-05-16 13:47:11:980 Info: > ProcessingTime:10.5287
+2018-05-16 13:47:12:496 Info: > ProcessingTime:11.7151
+2018-05-16 13:47:12:887 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:13:027 Info: > ProcessingTime:13.2787
+2018-05-16 13:47:13:585 Info: > ProcessingTime:10.3668
+2018-05-16 13:47:14:106 Info: > ProcessingTime:10.9066
+2018-05-16 13:47:14:622 Info: > ProcessingTime:14.5094
+2018-05-16 13:47:14:887 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:15:137 Info: > ProcessingTime:10.5018
+2018-05-16 13:47:15:652 Info: > ProcessingTime:10.7062
+2018-05-16 13:47:16:184 Info: > ProcessingTime:11.0091
+2018-05-16 13:47:16:699 Info: > ProcessingTime:10.4658
+2018-05-16 13:47:16:902 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:17:215 Info: > ProcessingTime:10.2383
+2018-05-16 13:47:17:745 Info: > ProcessingTime:18.1168
+2018-05-16 13:47:18:277 Info: > ProcessingTime:9.7458
+2018-05-16 13:47:18:792 Info: > ProcessingTime:10.0764
+2018-05-16 13:47:18:917 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:19:292 Info: > ProcessingTime:10.377
+2018-05-16 13:47:19:808 Info: > ProcessingTime:10.8496
+2018-05-16 13:47:20:323 Info: > ProcessingTime:12.4789
+2018-05-16 13:47:20:870 Info: > ProcessingTime:10.1538
+2018-05-16 13:47:20:933 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:21:383 Info: > ProcessingTime:10.4424
+2018-05-16 13:47:21:900 Info: > ProcessingTime:10.1054
+2018-05-16 13:47:22:416 Info: > ProcessingTime:9.8789
+2018-05-16 13:47:22:932 Info: > ProcessingTime:16.8651
+2018-05-16 13:47:22:947 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:23:450 Info: > ProcessingTime:12.8102
+2018-05-16 13:47:23:966 Info: > ProcessingTime:10.8716
+2018-05-16 13:47:24:481 Info: > ProcessingTime:10.6444
+2018-05-16 13:47:24:950 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:24:997 Info: > ProcessingTime:10.5949
+2018-05-16 13:47:25:515 Info: > ProcessingTime:12.1725
+2018-05-16 13:47:26:030 Info: > ProcessingTime:10.6796
+2018-05-16 13:47:26:546 Info: > ProcessingTime:9.9088
+2018-05-16 13:47:26:952 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:27:061 Info: > ProcessingTime:10.8372
+2018-05-16 13:47:27:578 Info: > ProcessingTime:9.5215
+2018-05-16 13:47:28:092 Info: > ProcessingTime:11.5004
+2018-05-16 13:47:28:608 Info: > ProcessingTime:10.348
+2018-05-16 13:47:28:967 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:29:139 Info: > ProcessingTime:21.9577
+2018-05-16 13:47:29:700 Info: > ProcessingTime:9.6745
+2018-05-16 13:47:30:215 Info: > ProcessingTime:14.6052
+2018-05-16 13:47:30:747 Info: > ProcessingTime:13.0797
+2018-05-16 13:47:30:997 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:31:262 Info: > ProcessingTime:11.8641
+2018-05-16 13:47:31:788 Info: > ProcessingTime:11.0419
+2018-05-16 13:47:32:304 Info: > ProcessingTime:10.9297
+2018-05-16 13:47:32:835 Info: > ProcessingTime:12.9595
+2018-05-16 13:47:33:007 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:33:351 Info: > ProcessingTime:13.2951
+2018-05-16 13:47:33:859 Info: > ProcessingTime:13.6391
+2018-05-16 13:47:34:374 Info: > ProcessingTime:11.6008
+2018-05-16 13:47:34:890 Info: > ProcessingTime:10.1076
+2018-05-16 13:47:35:031 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:35:418 Info: > ProcessingTime:22.4334
+2018-05-16 13:47:35:933 Info: > ProcessingTime:9.8561
+2018-05-16 13:47:36:449 Info: > ProcessingTime:10.6207
+2018-05-16 13:47:36:980 Info: > ProcessingTime:10.4701
+2018-05-16 13:47:37:042 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:37:495 Info: > ProcessingTime:12.0884
+2018-05-16 13:47:38:013 Info: > ProcessingTime:9.8644
+2018-05-16 13:47:38:529 Info: > ProcessingTime:11.6258
+2018-05-16 13:47:39:076 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:39:091 Info: > ProcessingTime:52.6073
+2018-05-16 13:47:39:604 Info: > ProcessingTime:10.2993
+2018-05-16 13:47:40:117 Info: > ProcessingTime:10.6083
+2018-05-16 13:47:40:664 Info: > ProcessingTime:9.9572
+2018-05-16 13:47:41:086 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:41:179 Info: > ProcessingTime:15.7079
+2018-05-16 13:47:41:698 Info: > ProcessingTime:13.6106
+2018-05-16 13:47:42:229 Info: > ProcessingTime:11.0112
+2018-05-16 13:47:42:745 Info: > ProcessingTime:10.9273
+2018-05-16 13:47:43:104 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:43:260 Info: > ProcessingTime:10.2821
+2018-05-16 13:47:43:790 Info: > ProcessingTime:10.1977
+2018-05-16 13:47:44:305 Info: > ProcessingTime:11.5876
+2018-05-16 13:47:44:837 Info: > ProcessingTime:12.4942
+2018-05-16 13:47:45:118 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:45:347 Info: > ProcessingTime:10.0715
+2018-05-16 13:47:45:873 Info: > ProcessingTime:11.9555
+2018-05-16 13:47:46:404 Info: > ProcessingTime:10.6541
+2018-05-16 13:47:46:920 Info: > ProcessingTime:10.0083
+2018-05-16 13:47:47:139 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:47:429 Info: > ProcessingTime:11.5601
+2018-05-16 13:47:47:935 Info: > ProcessingTime:10.2923
+2018-05-16 13:47:48:451 Info: > ProcessingTime:10.6188
+2018-05-16 13:47:48:966 Info: > ProcessingTime:9.9564
+2018-05-16 13:47:49:158 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:49:482 Info: > ProcessingTime:10.5855
+2018-05-16 13:47:49:998 Info: > ProcessingTime:12.1863
+2018-05-16 13:47:50:514 Info: > ProcessingTime:12.2094
+2018-05-16 13:47:51:045 Info: > ProcessingTime:11.5045
+2018-05-16 13:47:51:170 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:51:554 Info: > ProcessingTime:10.3757
+2018-05-16 13:47:52:079 Info: > ProcessingTime:18.2182
+2018-05-16 13:47:52:610 Info: > ProcessingTime:21.8428
+2018-05-16 13:47:53:126 Info: > ProcessingTime:9.8144
+2018-05-16 13:47:53:172 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:53:631 Info: > ProcessingTime:12.0889
+2018-05-16 13:47:54:147 Info: > ProcessingTime:9.4634
+2018-05-16 13:47:54:663 Info: > ProcessingTime:10.9822
+2018-05-16 13:47:55:163 Info: > ProcessingTime:14.4731
+2018-05-16 13:47:55:178 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:55:678 Info: > ProcessingTime:12.6566
+2018-05-16 13:47:56:194 Info: > ProcessingTime:10.8765
+2018-05-16 13:47:56:725 Info: > ProcessingTime:10.2743
+2018-05-16 13:47:57:178 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:57:241 Info: > ProcessingTime:11.186
+2018-05-16 13:47:57:754 Info: > ProcessingTime:10.2297
+2018-05-16 13:47:58:269 Info: > ProcessingTime:10.4887
+2018-05-16 13:47:58:800 Info: > ProcessingTime:18.0496
+2018-05-16 13:47:59:191 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:47:59:321 Info: > ProcessingTime:18.8995
+2018-05-16 13:47:59:848 Info: > ProcessingTime:14.2588
+2018-05-16 13:48:00:363 Info: > ProcessingTime:12.0951
+2018-05-16 13:48:00:879 Info: > ProcessingTime:11.8006
+2018-05-16 13:48:01:207 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:01:400 Info: > ProcessingTime:17.0187
+2018-05-16 13:48:01:925 Info: > ProcessingTime:11.8842
+2018-05-16 13:48:02:440 Info: > ProcessingTime:12.8503
+2018-05-16 13:48:02:972 Info: > ProcessingTime:13.1878
+2018-05-16 13:48:03:222 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:03:492 Info: > ProcessingTime:16.4988
+2018-05-16 13:48:04:009 Info: > ProcessingTime:12.712
+2018-05-16 13:48:04:522 Info: > ProcessingTime:9.9814
+2018-05-16 13:48:05:037 Info: > ProcessingTime:13.3091
+2018-05-16 13:48:05:240 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:05:547 Info: > ProcessingTime:10.3208
+2018-05-16 13:48:06:059 Info: > ProcessingTime:14.2706
+2018-05-16 13:48:06:605 Info: > ProcessingTime:16.0037
+2018-05-16 13:48:07:168 Info: > ProcessingTime:15.0796
+2018-05-16 13:48:07:246 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:07:709 Info: > ProcessingTime:15.7003
+2018-05-16 13:48:08:240 Info: > ProcessingTime:12.4385
+2018-05-16 13:48:08:756 Info: > ProcessingTime:11.7194
+2018-05-16 13:48:09:313 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:09:313 Info: > ProcessingTime:59.2325
+2018-05-16 13:48:09:821 Info: > ProcessingTime:10.0532
+2018-05-16 13:48:10:336 Info: > ProcessingTime:12.7718
+2018-05-16 13:48:10:868 Info: > ProcessingTime:10.2044
+2018-05-16 13:48:11:333 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:11:377 Info: > ProcessingTime:10.1495
+2018-05-16 13:48:11:904 Info: > ProcessingTime:13.9355
+2018-05-16 13:48:12:435 Info: > ProcessingTime:10.823
+2018-05-16 13:48:12:951 Info: > ProcessingTime:9.9728
+2018-05-16 13:48:13:345 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:13:481 Info: > ProcessingTime:21.0363
+2018-05-16 13:48:14:025 Info: > ProcessingTime:10.6928
+2018-05-16 13:48:14:540 Info: > ProcessingTime:9.6918
+2018-05-16 13:48:15:072 Info: > ProcessingTime:17.0494
+2018-05-16 13:48:15:370 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:15:586 Info: > ProcessingTime:10.1933
+2018-05-16 13:48:16:120 Info: > ProcessingTime:13.9549
+2018-05-16 13:48:16:651 Info: > ProcessingTime:10.6783
+2018-05-16 13:48:17:167 Info: > ProcessingTime:11.5421
+2018-05-16 13:48:17:381 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:17:683 Info: > ProcessingTime:16.6925
+2018-05-16 13:48:18:199 Info: > ProcessingTime:10.2114
+2018-05-16 13:48:18:730 Info: > ProcessingTime:13.8494
+2018-05-16 13:48:19:246 Info: > ProcessingTime:10.6153
+2018-05-16 13:48:19:405 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:19:770 Info: > ProcessingTime:10.3964
+2018-05-16 13:48:20:286 Info: > ProcessingTime:10.2404
+2018-05-16 13:48:20:801 Info: > ProcessingTime:10.8972
+2018-05-16 13:48:21:314 Info: > ProcessingTime:11.8409
+2018-05-16 13:48:21:426 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:21:837 Info: > ProcessingTime:10.785
+2018-05-16 13:48:22:352 Info: > ProcessingTime:10.1544
+2018-05-16 13:48:22:868 Info: > ProcessingTime:10.8012
+2018-05-16 13:48:23:377 Info: > ProcessingTime:10.5147
+2018-05-16 13:48:23:437 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:23:896 Info: > ProcessingTime:12.0109
+2018-05-16 13:48:24:411 Info: > ProcessingTime:9.9101
+2018-05-16 13:48:24:927 Info: > ProcessingTime:10.7474
+2018-05-16 13:48:25:438 Info: > ProcessingTime:10.8383
+2018-05-16 13:48:25:462 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:25:943 Info: > ProcessingTime:10.2068
+2018-05-16 13:48:26:458 Info: > ProcessingTime:11.9961
+2018-05-16 13:48:26:974 Info: > ProcessingTime:9.6122
+2018-05-16 13:48:27:506 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:27:506 Info: > ProcessingTime:34.5622
+2018-05-16 13:48:28:021 Info: > ProcessingTime:11.9757
+2018-05-16 13:48:28:552 Info: > ProcessingTime:11.111
+2018-05-16 13:48:29:068 Info: > ProcessingTime:12.0717
+2018-05-16 13:48:29:515 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:29:579 Info: > ProcessingTime:10.1377
+2018-05-16 13:48:30:112 Info: > ProcessingTime:10.8751
+2018-05-16 13:48:30:628 Info: > ProcessingTime:10.5037
+2018-05-16 13:48:31:143 Info: > ProcessingTime:13.8726
+2018-05-16 13:48:31:538 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:31:658 Info: > ProcessingTime:12.2193
+2018-05-16 13:48:32:220 Info: > ProcessingTime:9.7563
+2018-05-16 13:48:32:736 Info: > ProcessingTime:10.1603
+2018-05-16 13:48:33:252 Info: > ProcessingTime:11.1425
+2018-05-16 13:48:33:554 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:33:770 Info: > ProcessingTime:10.9087
+2018-05-16 13:48:34:286 Info: > ProcessingTime:10.2851
+2018-05-16 13:48:34:802 Info: > ProcessingTime:10.4139
+2018-05-16 13:48:35:316 Info: > ProcessingTime:10.9529
+2018-05-16 13:48:35:568 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:35:847 Info: > ProcessingTime:16.2511
+2018-05-16 13:48:36:378 Info: > ProcessingTime:10.5346
+2018-05-16 13:48:36:894 Info: > ProcessingTime:10.6342
+2018-05-16 13:48:37:406 Info: > ProcessingTime:10.3674
+2018-05-16 13:48:37:582 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:37:908 Info: > ProcessingTime:11.6486
+2018-05-16 13:48:38:423 Info: > ProcessingTime:10.6524
+2018-05-16 13:48:38:939 Info: > ProcessingTime:10.9004
+2018-05-16 13:48:39:455 Info: > ProcessingTime:12.7303
+2018-05-16 13:48:39:599 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:39:986 Info: > ProcessingTime:14.6334
+2018-05-16 13:48:40:502 Info: > ProcessingTime:10.0745
+2018-05-16 13:48:41:017 Info: > ProcessingTime:10.6038
+2018-05-16 13:48:41:530 Info: > ProcessingTime:10.0688
+2018-05-16 13:48:41:610 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:42:052 Info: > ProcessingTime:11.505
+2018-05-16 13:48:42:583 Info: > ProcessingTime:10.5231
+2018-05-16 13:48:43:099 Info: > ProcessingTime:11.7645
+2018-05-16 13:48:43:612 Info: > ProcessingTime:14.517
+2018-05-16 13:48:43:627 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:44:127 Info: > ProcessingTime:10.5112
+2018-05-16 13:48:44:643 Info: > ProcessingTime:13.6751
+2018-05-16 13:48:45:174 Info: > ProcessingTime:10.3539
+2018-05-16 13:48:45:643 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:45:674 Info: > ProcessingTime:14.8816
+2018-05-16 13:48:46:205 Info: > ProcessingTime:14.2206
+2018-05-16 13:48:46:721 Info: > ProcessingTime:12.6817
+2018-05-16 13:48:47:252 Info: > ProcessingTime:18.9611
+2018-05-16 13:48:47:651 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:47:760 Info: > ProcessingTime:9.2485
+2018-05-16 13:48:48:302 Info: > ProcessingTime:10.7864
+2018-05-16 13:48:48:818 Info: > ProcessingTime:10.8485
+2018-05-16 13:48:49:346 Info: > ProcessingTime:12.0426
+2018-05-16 13:48:49:674 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:49:861 Info: > ProcessingTime:10.8657
+2018-05-16 13:48:50:377 Info: > ProcessingTime:11.1987
+2018-05-16 13:48:50:892 Info: > ProcessingTime:10.948
+2018-05-16 13:48:51:419 Info: > ProcessingTime:14.4067
+2018-05-16 13:48:51:690 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:51:924 Info: > ProcessingTime:11.1306
+2018-05-16 13:48:52:440 Info: > ProcessingTime:10.3757
+2018-05-16 13:48:52:971 Info: > ProcessingTime:11.2802
+2018-05-16 13:48:53:483 Info: > ProcessingTime:10.1592
+2018-05-16 13:48:53:694 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:54:007 Info: > ProcessingTime:14.9688
+2018-05-16 13:48:54:538 Info: > ProcessingTime:10.7471
+2018-05-16 13:48:55:053 Info: > ProcessingTime:11.1121
+2018-05-16 13:48:55:567 Info: > ProcessingTime:13.2661
+2018-05-16 13:48:55:705 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:56:080 Info: > ProcessingTime:10.0911
+2018-05-16 13:48:56:596 Info: > ProcessingTime:11.6744
+2018-05-16 13:48:57:112 Info: > ProcessingTime:10.8996
+2018-05-16 13:48:57:628 Info: > ProcessingTime:14.1851
+2018-05-16 13:48:57:706 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:58:159 Info: > ProcessingTime:10.6204
+2018-05-16 13:48:58:690 Info: > ProcessingTime:10.4327
+2018-05-16 13:48:59:206 Info: > ProcessingTime:12.4912
+2018-05-16 13:48:59:784 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:48:59:784 Info: > ProcessingTime:68.4623
+2018-05-16 13:49:00:300 Info: > ProcessingTime:13.7472
+2018-05-16 13:49:00:816 Info: > ProcessingTime:10.8165
+2018-05-16 13:49:01:343 Info: > ProcessingTime:14.6579
+2018-05-16 13:49:01:799 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:49:01:846 Info: > ProcessingTime:9.7367
+2018-05-16 13:49:02:378 Info: > ProcessingTime:10.3354
+2018-05-16 13:49:02:893 Info: > ProcessingTime:12.0262
+2018-05-16 13:49:03:404 Info: > ProcessingTime:10.6602
+2018-05-16 13:49:03:831 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:49:03:909 Info: > ProcessingTime:11.2377
+2018-05-16 13:49:04:425 Info: > ProcessingTime:11.1301
+2018-05-16 13:49:04:941 Info: > ProcessingTime:10.2348
+2018-05-16 13:49:05:456 Info: > ProcessingTime:13.3045
+2018-05-16 13:49:05:847 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:49:05:956 Info: > ProcessingTime:11.9278
+2018-05-16 13:49:06:472 Info: > ProcessingTime:10.4139
+2018-05-16 13:49:06:987 Info: > ProcessingTime:10.3714
+2018-05-16 13:49:07:508 Info: > ProcessingTime:14.2545
+2018-05-16 13:49:07:867 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:49:08:023 Info: > ProcessingTime:13.6907
+2018-05-16 13:49:08:538 Info: > ProcessingTime:10.3633
+2018-05-16 13:49:09:085 Info: > ProcessingTime:16.2654
+2018-05-16 13:49:09:594 Info: > ProcessingTime:10.8996
+2018-05-16 13:49:09:908 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 13:49:10:111 Info: > ProcessingTime:10.9642
+2018-05-16 13:49:10:643 Info: > ProcessingTime:11.2837
+2018-05-16 13:49:11:158 Info: > ProcessingTime:12.0034
+2018-05-16 13:49:11:675 Info: > ProcessingTime:11.0155
+2018-05-16 13:49:11:910 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:15:763 Error: > Mainframe_InitConfig: Value cannot be null.
+Parameter name: value
+2018-05-16 14:19:15:775 Error: > Mainframe_InitChartType: Index was outside the bounds of the array.
+2018-05-16 14:19:15:783 Error: > Mainframe_InitChart: A chart element with the name 'Analyse Graph' could not be found in the 'SeriesCollection'.
+2018-05-16 14:19:18:026 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:18:094 Info: > ProcessingTime:140.2813
+2018-05-16 14:19:18:713 Info: > ProcessingTime:14.8747
+2018-05-16 14:19:19:260 Info: > ProcessingTime:15.7633
+2018-05-16 14:19:19:775 Info: > ProcessingTime:11.8288
+2018-05-16 14:19:20:299 Info: > ProcessingTime:13.4492
+2018-05-16 14:19:20:815 Info: > ProcessingTime:10.4166
+2018-05-16 14:19:21:330 Info: > ProcessingTime:11.2952
+2018-05-16 14:19:21:855 Info: > ProcessingTime:10.7676
+2018-05-16 14:19:22:383 Info: > ProcessingTime:18.8492
+2018-05-16 14:19:22:901 Info: > ProcessingTime:10.3773
+2018-05-16 14:19:23:417 Info: > ProcessingTime:13.4608
+2018-05-16 14:19:23:966 Info: > ProcessingTime:11.0962
+2018-05-16 14:19:24:486 Info: > ProcessingTime:10.9929
+2018-05-16 14:19:25:005 Info: > ProcessingTime:11.0182
+2018-05-16 14:19:25:521 Info: > ProcessingTime:11.2164
+2018-05-16 14:19:26:030 Info: > ProcessingTime:11.2982
+2018-05-16 14:19:26:054 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:26:550 Info: > ProcessingTime:11.4787
+2018-05-16 14:19:27:095 Info: > ProcessingTime:10.0949
+2018-05-16 14:19:27:642 Info: > ProcessingTime:15.9028
+2018-05-16 14:19:28:082 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:28:158 Info: > ProcessingTime:10.2541
+2018-05-16 14:19:28:670 Info: > ProcessingTime:11.9418
+2018-05-16 14:19:29:185 Info: > ProcessingTime:11.6118
+2018-05-16 14:19:29:710 Info: > ProcessingTime:10.5658
+2018-05-16 14:19:30:098 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:30:222 Info: > ProcessingTime:10.2592
+2018-05-16 14:19:30:733 Info: > ProcessingTime:10.7439
+2018-05-16 14:19:31:249 Info: > ProcessingTime:11.0938
+2018-05-16 14:19:31:786 Info: > ProcessingTime:10.2619
+2018-05-16 14:19:32:114 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:32:298 Info: > ProcessingTime:10.3378
+2018-05-16 14:19:32:822 Info: > ProcessingTime:10.3456
+2018-05-16 14:19:33:354 Info: > ProcessingTime:13.6851
+2018-05-16 14:19:33:888 Info: > ProcessingTime:10.2945
+2018-05-16 14:19:34:124 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:34:416 Info: > ProcessingTime:15.2496
+2018-05-16 14:19:34:934 Info: > ProcessingTime:10.8466
+2018-05-16 14:19:35:449 Info: > ProcessingTime:11.4198
+2018-05-16 14:19:35:993 Info: > ProcessingTime:10.4959
+2018-05-16 14:19:36:133 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:36:506 Info: > ProcessingTime:11.0534
+2018-05-16 14:19:37:036 Info: > ProcessingTime:13.9979
+2018-05-16 14:19:37:552 Info: > ProcessingTime:13.7101
+2018-05-16 14:19:38:066 Info: > ProcessingTime:14.0939
+2018-05-16 14:19:38:154 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:38:594 Info: > ProcessingTime:13.0141
+2018-05-16 14:19:39:115 Info: > ProcessingTime:10.1737
+2018-05-16 14:19:39:641 Info: > ProcessingTime:13.8217
+2018-05-16 14:19:40:157 Info: > ProcessingTime:11.7828
+2018-05-16 14:19:40:173 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:40:693 Info: > ProcessingTime:15.9241
+2018-05-16 14:19:41:209 Info: > ProcessingTime:10.153
+2018-05-16 14:19:41:871 Info: > ProcessingTime:30.0882
+2018-05-16 14:19:42:199 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:42:397 Info: > ProcessingTime:13.4188
+2018-05-16 14:19:42:919 Info: > ProcessingTime:13.4987
+2018-05-16 14:19:43:461 Info: > ProcessingTime:11.2237
+2018-05-16 14:19:43:977 Info: > ProcessingTime:9.3844
+2018-05-16 14:19:44:233 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:44:499 Info: > ProcessingTime:15.8353
+2018-05-16 14:19:45:077 Info: > ProcessingTime:14.4443
+2018-05-16 14:19:45:655 Info: > ProcessingTime:13.524
+2018-05-16 14:19:46:208 Info: > ProcessingTime:18.6203
+2018-05-16 14:19:46:750 Info: > ProcessingTime:12.9162
+2018-05-16 14:19:47:282 Info: > ProcessingTime:16.8425
+2018-05-16 14:19:47:812 Info: > ProcessingTime:11.3154
+2018-05-16 14:19:48:265 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:48:328 Info: > ProcessingTime:12.4756
+2018-05-16 14:19:48:868 Info: > ProcessingTime:14.6103
+2018-05-16 14:19:49:396 Info: > ProcessingTime:14.4137
+2018-05-16 14:19:49:931 Info: > ProcessingTime:10.2337
+2018-05-16 14:19:50:275 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:50:431 Info: > ProcessingTime:14.2733
+2018-05-16 14:19:50:978 Info: > ProcessingTime:12.4479
+2018-05-16 14:19:51:538 Info: > ProcessingTime:15.5583
+2018-05-16 14:19:52:055 Info: > ProcessingTime:12.4541
+2018-05-16 14:19:52:290 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:52:571 Info: > ProcessingTime:11.3541
+2018-05-16 14:19:53:099 Info: > ProcessingTime:11.4367
+2018-05-16 14:19:53:631 Info: > ProcessingTime:11.4727
+2018-05-16 14:19:54:146 Info: > ProcessingTime:10.7226
+2018-05-16 14:19:54:302 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:54:656 Info: > ProcessingTime:10.1135
+2018-05-16 14:19:55:180 Info: > ProcessingTime:11.3264
+2018-05-16 14:19:55:695 Info: > ProcessingTime:14.053
+2018-05-16 14:19:56:205 Info: > ProcessingTime:10.774
+2018-05-16 14:19:56:313 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:56:725 Info: > ProcessingTime:11.4076
+2018-05-16 14:19:57:245 Info: > ProcessingTime:10.9927
+2018-05-16 14:19:57:758 Info: > ProcessingTime:10.1151
+2018-05-16 14:19:58:274 Info: > ProcessingTime:11.3003
+2018-05-16 14:19:58:321 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:19:58:784 Info: > ProcessingTime:10.192
+2018-05-16 14:19:59:296 Info: > ProcessingTime:10.2353
+2018-05-16 14:19:59:810 Info: > ProcessingTime:10.2436
+2018-05-16 14:20:00:357 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:20:00:372 Info: > ProcessingTime:54.6093
+2018-05-16 14:20:00:908 Info: > ProcessingTime:10.8603
+2018-05-16 14:20:01:420 Info: > ProcessingTime:10.9496
+2018-05-16 14:20:01:929 Info: > ProcessingTime:10.5957
+2018-05-16 14:20:02:366 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:20:02:444 Info: > ProcessingTime:13.3188
+2018-05-16 14:20:02:977 Info: > ProcessingTime:15.5425
+2018-05-16 14:20:03:497 Info: > ProcessingTime:10.7264
+2018-05-16 14:20:04:031 Info: > ProcessingTime:10.1264
+2018-05-16 14:20:04:375 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:20:04:547 Info: > ProcessingTime:13.0843
+2018-05-16 14:20:05:073 Info: > ProcessingTime:10.6925
+2018-05-16 14:20:05:589 Info: > ProcessingTime:13.588
+2018-05-16 14:20:06:118 Info: > ProcessingTime:9.9954
+2018-05-16 14:20:06:384 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:20:06:632 Info: > ProcessingTime:14.5471
+2018-05-16 14:20:07:150 Info: > ProcessingTime:10.5408
+2018-05-16 14:20:07:666 Info: > ProcessingTime:11.4483
+2018-05-16 14:20:08:197 Error: > Mainframe_StartEdgeAnalyser: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018-05-16 14:20:08:384 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:20:08:737 Info: > ProcessingTime:11.1191
+2018-05-16 14:20:09:257 Info: > ProcessingTime:12.8586
+2018-05-16 14:20:09:773 Info: > ProcessingTime:8.4874
+2018-05-16 14:20:10:304 Error: > Mainframe_StartEdgeAnalyser: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018-05-16 14:20:10:407 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:20:10:817 Info: > ProcessingTime:10.1406
+2018-05-16 14:20:11:333 Info: > ProcessingTime:10.8332
+2018-05-16 14:20:11:858 Info: > ProcessingTime:10.3445
+2018-05-16 14:20:12:373 Info: > ProcessingTime:10.93
+2018-05-16 14:20:12:420 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:20:12:893 Info: > ProcessingTime:14.3483
+2018-05-16 14:20:13:409 Info: > ProcessingTime:10.8757
+2018-05-16 14:20:13:913 Info: > ProcessingTime:10.3144
+2018-05-16 14:20:14:413 Info: > ProcessingTime:14.3844
+2018-05-16 14:20:14:444 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:20:14:923 Info: > ProcessingTime:11.2858
+2018-05-16 14:20:15:439 Info: > ProcessingTime:10.3523
+2018-05-16 14:20:15:967 Info: > ProcessingTime:10.2401
+2018-05-16 14:20:16:451 Error: > Mainframe_DrawCombiner: Cross-thread operation not valid: Control 'chartAnalyser' accessed from a thread other than the thread it was created on.
+2018-05-16 14:20:16:483 Info: > ProcessingTime:15.0844
+2018-05-16 14:20:17:015 Info: > ProcessingTime:13.7144
+2018-05-16 14:20:17:532 Info: > ProcessingTime:11.5338
